@@ -6,7 +6,7 @@
  
  * Build assets: `yarn run build`
 
- * To add `yarn add`
+ *
  
  * To add an npm package or babel plugin use: `yarn add {your thingy here}`
  
